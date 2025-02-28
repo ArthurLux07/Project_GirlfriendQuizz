@@ -1,0 +1,240 @@
+.poppins-light {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
+body{
+
+    font-family: "Poppins";
+
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+
+    background: rgb(255,0,237);
+    background: linear-gradient(0deg, rgba(255,0,237,1) 0%, rgba(93,119,230,1) 100%);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 30%;
+}
+
+.containerPergunta3{
+
+    border: 3px solid;
+    border-color: transparent;
+    border-radius: 15px;
+
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 60px;
+
+    padding-bottom: 40px;
+
+    backdrop-filter: blur(100px);
+
+    box-shadow: 1px 1px 100px;
+ 
+}
+
+h1{
+
+    background-color: #313131;
+    color: #fff;
+    border: 1px solid #313131;
+    border-radius: 50px;
+
+    height: 50%;
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 80px;
+
+    font-size: large;
+
+    cursor: default;
+}
+
+.perguntas3{
+
+    margin-top: 50px;
+}
+
+.opc1{
+
+    background-color: #313131;
+    color: #fff;
+
+    border: 1px solid #313131;
+    border-radius: 15px;
+
+    height: 50px;
+    width: 500px;
+    
+    padding-left: 15px;
+
+    text-align: left;
+    font-family: "Poppins";
+    font-size: medium;
+
+    transition: 0.3s;
+
+    cursor: pointer;
+
+}
+
+.opc1:hover{
+
+    background-color: #545252;
+    border: 1px solid #545252;
+}
+
+.opc1:active {
+    background-color: #2aae37;
+    border-color:#2aae37;
+    box-shadow: 2px 2px 100px #2aae37;
+}
+
+.opc2{
+
+    background-color: #313131;
+    color: #fff;
+
+    border: 1px solid #313131;
+    border-radius: 15px;
+
+    height: 50px;
+    width: 500px;
+    
+    padding-left: 15px;
+
+    text-align: left;
+    font-family: "Poppins";
+    font-size: medium;  
+
+    transition: 0.3s;
+
+    cursor: pointer;
+
+}
+
+.opc2:hover{
+
+    background-color: #545252;
+    border: 1px solid #545252;
+}
+
+.opc2:active{
+    background-color: #ce2c2c;
+    border-color:#ce2c2c;
+    box-shadow: 2px 2px 100px #ce2c2c;
+}
+
+.opc3{
+
+    background-color: #313131;
+    color: #fff;
+
+    border: 1px solid #313131;
+    border-radius: 15px;
+
+    height: 50px;
+    width: 500px;
+    
+    padding-left: 15px;
+
+    text-align: left;
+    font-family: "Poppins";
+    font-size: medium;
+
+    transition: 0.3s;
+
+    cursor: pointer;
+
+}
+
+.opc3:hover{
+
+    background-color: #545252;
+    border: 1px solid #545252;
+}
+
+.opc3:active {
+    background-color: #ce2c2c;
+    border-color:#ce2c2c;
+    box-shadow: 2px 2px 100px #ce2c2c;
+}
+
+.opc4{
+
+    background-color: #313131;
+    color: #fff;
+
+    border: 1px solid #313131;
+    border-radius: 15px;
+
+    height: 50px;
+    width: 500px;
+    
+    padding-left: 15px;
+
+    text-align: left;
+    font-family: "Poppins";
+    font-size: medium;
+
+    transition: 0.3s;
+
+    cursor: pointer;
+
+}
+
+.opc4:hover{
+
+    background-color: #545252;
+    border: 1px solid #545252;
+}
+
+.opc4:active {
+    background-color: #ce2c2c;
+    border-color:#ce2c2c;
+    box-shadow: 2px 2px 100px #ce2c2c;
+}
+
+.btnRedirect3{
+
+    background-color: #ff00ed;
+  color: #ffff;
+
+  width: 150px;
+  height: 50px;
+
+  margin-top: 50px;
+  margin-left: 10px;
+
+  border: 3px solid #ff00ed;
+  border-radius: 10px;
+  
+  font-family: "Poppins";
+  font-size: medium;
+
+  transition: 0.5s;
+
+  cursor: pointer;
+
+}
+
+.btnRedirect3:hover{
+
+    box-shadow: 7px 7px 70px 7px #313131;
+  }
